@@ -12,6 +12,7 @@
   "dependencies": {
     "express": "^4.16.2",
     "joi": "^17.13.3",
-    "mongoose": "^8.11.0"
+    "joi-objectid": "^4.0.2",
+    "mongoose": "^8.12.1"
   }
 }
